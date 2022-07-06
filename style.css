@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.conteiner {
+    display:flex;
+}
+
+.header {
+    background-image: url(img/plano-de-fundo-preto31.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 80% ;
+    padding:80px 0 50px 0;
+    text-align: center;
+    
+    
+    opacity: 92%;
+}
+
+.header img {
+    width: 130px;
+    border-radius: 50%;
+    margin: 0px 0 -30px 0;
+}
+
+body {
+    background-color: #c4c4c4;
+}
+
+.container {
+    display: flex;
+   
+}
+
+.content {
+    width: 30%;
+    padding: 30px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    text-decoration:none;
+    text-align: center;
+    
+}
+
+.content ul li  {
+    list-style: none;
+   
+}
+
+.content ul li a {
+    text-decoration:none;
+    color:aliceblue;
+    font-size: 18px;
+    
+}
+    
+.blog {
+  
+    padding: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 
+}
+
+.blog h1 {
+    margin-bottom: 15px;
+}
+
+.list01 {
+    background-color: #b42f2f;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.list02 {
+    background-color: #b42f2f;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+    margin:15px 0;
+}
+
+.list03 {
+    background-color: #b42f2f;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.list04 {
+    background-color: #b42f2f;
+    padding: 10px 110px;
+    text-align: center;
+    border-radius: 20px;
+  
+}
+
+.footer {
+    background-color: #272727;
+    color: white;
+    font-size: 14px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding: 9px;
+    margin:100px 0 0 0;
+    height: 40px;
+    width: 100%;
+}
+
+.imagem-top {
+    width: 400px;
+    margin: 12px 0;
+}
